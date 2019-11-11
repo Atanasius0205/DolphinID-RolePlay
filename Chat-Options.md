@@ -18,7 +18,7 @@ In this chat you can say anything unrelated to the server's roleplay, this chat 
 
 **Questions Chat** _(Question)_
 CMD: ? Questiontext
-![](https://gyazo.com/f9662b23550858992ceb1f63fa74d431)
+![](https://i.gyazo.com/f9662b23550858992ceb1f63fa74d431.png)
 
 This chat is exclusive to ask questions related to the server.
 This chat is not to chat with your friends or ask where they are or what they are doing. You could be silenced and get a penalty if you do.
