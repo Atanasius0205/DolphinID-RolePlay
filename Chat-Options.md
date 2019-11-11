@@ -11,7 +11,7 @@ In this chat you can say anything that your character wanna say, this chat is li
 **CMD:** /ooc
 
 In this chat you can say anything unrelated to the server's roleplay, this chat is limited to 15 blocks of distance that means that only people 15 blocks away from you can read you.
-**For example:**
+**For example:*** 
 ![](https://i.gyazo.com/1b6126a98d417f8c43a1ea83a70fa60a.png)
 
 **Questions Chat** _(Question)_
