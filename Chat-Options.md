@@ -5,15 +5,15 @@ On the server you will find a wide variety of chat options, in order to create a
 In this chat you can say anything that your character wanna say, this chat is limited to 15 blocks of distance that means that only people 15 blocks away from you can read you.                                                                 
 **For example:**                                                                             
 ![](https://i.gyazo.com/d5c5a287701086723eeb95498b267e72.png)
-
-
+                                                                                                                    
+                                                                                                                        
 **Out Of Character Chat** _(OOC)_
 **CMD:** /ooc                                                                                      
 In this chat you can say anything unrelated to the server's roleplay, this chat is limited to 15 blocks of distance that means that only people 15 blocks away from you can read you.                                                            
 **For example:***                                                                                                         
  ![](https://i.gyazo.com/1b6126a98d417f8c43a1ea83a70fa60a.png)
-
-
+                                                                                                                    
+                                                                                                                    
 **Shout** _(Shout)_
 **CMD:** /s text                                                                          
 ![](https://i.gyazo.com/9b52a60b54bf9d8a6ac120d92ac522a6.png)                                                       
@@ -21,16 +21,16 @@ With this option you can shout to all users 30 blocks away from you.
 You can only shout roleplay things related to your character with this command you can shout at a friend asking where he is. Or you can ask for help, you can even sell things.                                                                    
 **For example**                                                                                                          
 ![](https://i.gyazo.com/da44a7f1a7c09b936f3162ebb2b3fe51.png)
-
-
+                                                                                                                    
+                                                                                                                    
 **Whisper** (Whisper)
 **CMD:** /w text                                                                                              
 ![](https://i.gyazo.com/32bfdebca565a8f545f5f27de2ed0832.png)
 The whisper option will allow you to whisper things to your friends or people close to a maximum of 3 blocks away from you, That means that for a friend to read you he must be very close to you.                                             
 **For example**                                                                                      
 ![](https://i.gyazo.com/84844bc296985a72372ed4a0f3273d67.png)                  
-
-
+                                                                                                                    
+                                                                                                                    
 **Questions Chat** _(Question)_
 **CMD:** ? text                
 ![](https://i.gyazo.com/f9662b23550858992ceb1f63fa74d431.png)                                 
@@ -40,8 +40,8 @@ It is totally forbidden to recruit members for your gang here.
 It is totally forbidden to sell things in this chat.                                                                     
 **For example**                                                                                              
 ![](https://i.gyazo.com/692736c2a07a9fb23e0c76c91ee2811a.png)
-
-
+                                                                                                                    
+                                                                                                                    
 **Global Channel** _(Global)_
 CMD: ! text
 ![](https://i.gyazo.com/95bc981b7b547d753e34bb4ac7098616.png)                                     
