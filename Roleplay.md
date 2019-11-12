@@ -10,7 +10,7 @@ It is totally forbidden to do things that a normal person would never do.
 For example, jumping off a plane without a parachute, shooting everyone in the streets for no reason, or having a gun pointed at you and you start running or hitting the criminal. Knowing that the criminal could kill you with the gun.
 
 **Roleplay Definitions   **                                                                                             
-**ASR:** Attacking without reason, the classic of Fenixzone many users commit this "Antirol" foul, it is about going down the street normally to see a person and begin to attack him in some way, bone hitting him, throwing shots if you walk things like that, if You want to "kill" or attack properly so to speak, you have to have a reason.
+**ASR:** Attacking without reason, the classic of minecity many users commit this "Antirol" foul, it is about going down the street normally to see a person and begin to attack him in some way, bone hitting him, throwing shots if you walk things like that, if You want to "kill" or attack properly so to speak, you have to have a reason.
 **example**: previously that user had assaulted you, but without killing you, you stay alive and you are going to seek your revenge, there you have to do a recognition role, as you recognize that it was the one who had assaulted you before.
 Another example: you are a member of a gang / mafia, and you see an enemy gang / mafia, there you have a reason to assault those people.   
                                                                                          
