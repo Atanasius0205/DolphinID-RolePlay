@@ -1,7 +1,7 @@
 On the server you will find a wide variety of chat options, in order to create a better roleplay.
 
 
-
+**IN-CHARACTER CHANNELS**                                                                                                
 **Roleplay Chat** _(RP)_
 **CMD:** /rp                                                                                      
 In this chat you can say anything that your character wanna say, this chat is limited to 15 blocks of distance that means that only people 15 blocks away from you can read you.                                                                 
@@ -25,7 +25,8 @@ The whisper option will allow you to whisper things to your friends or people cl
 **For example**                                                                                      
 ![](https://i.gyazo.com/84844bc296985a72372ed4a0f3273d67.png)                  
  
-                                                                                                                                           
+
+**OUT OF CHARACTER CHANNELS**                                                                                                                                           
 **Out Of Character Chat** _(OOC)_
 **CMD:** /ooc                                                                                      
 In this chat you can say anything unrelated to the server's roleplay, this chat is limited to 15 blocks of distance that means that only people 15 blocks away from you can read you.                                                            
