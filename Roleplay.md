@@ -14,9 +14,9 @@ For example, jumping off a plane without a parachute, shooting everyone in the s
 **example**: previously that user had assaulted you, but without killing you, you stay alive and you are going to seek your revenge, there you have to do a recognition role, as you recognize that it was the one who had assaulted you before.
 Another example: you are a member of a gang / mafia, and you see an enemy gang / mafia, there you have a reason to assault those people.   
                                                                                          
-**AI:** Impossible action or animation, is to do things that in real life would be impossible, for example going up a moving car.
+**AI:** Impossible action or animation, is to do things that in real life would be impossible, for example going up a moving car or jump from a third floor.
 
-**BJ:** BunnyJump, it is considered jumping repeatedly to get to a place, for example your Pj gets tired and you jump until you get where you want.
+**BJ:** BunnyJump, it is considered jumping repeatedly to get to a place more faster, for example your Pj gets tired and you jump until you get where you want.
 
 **RK:** RevengerKiller, (Avenge your death).
 If they kill you when you scratch in the hospital, you are not supposed to remember anything, but in spite of that you are going to take revenge on the one who killed you and kill him, there you are committing a foul.
