@@ -1,5 +1,5 @@
 **What is roleplay?**
-Roleplay is the term that defines playing the role of a character in a game.
+Roleplaying - Taking the role of a specific individual, acting their life out in the path you see fit.
 In minecity rp you must play the role of the citizen you want to be.
 You can pretend to be a rude boss of one of the most dangerous gangs in the city, however you should behave as such.
 You can also be a normal and hardworking citizen who simply enjoys working and spending some free time doing outdoor activities.
@@ -11,8 +11,6 @@ For example, jumping off a plane without a parachute, shooting everyone in the s
 
 **Roleplay Definitions   **                                                                                             
 **DM:** DeathMatching - Killing someone without a valid Roleplay reason. This rule counts for almost all servers, No one wants to be DMed. It gets annoying.
-
-**RP:** Roleplaying - Taking the role of a specific individual, acting their life out in the path you see fit.
 
 **CK:** Character Kill - Suicide, any form of killing yourself that kills them permanently.
 
