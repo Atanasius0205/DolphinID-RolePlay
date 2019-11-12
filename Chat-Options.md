@@ -25,7 +25,15 @@ The whisper option will allow you to whisper things to your friends or people cl
 **For example**                                                                                      
 ![](https://i.gyazo.com/84844bc296985a72372ed4a0f3273d67.png)                  
  
-ME 
+**ME CMD** _(*)_
+**CMD:** /me action                                                                                                 
+![](https://i.gyazo.com/8f102a8063c1f05b2316011f5857a62d.png)                                                       
+The cmd me, serves to describe actions about your character or the environment. Things that cannot be seen due to minecraft limitations. Some examples would be                                                                       
+/me It's very hot                                                                                                         
+another example would be                                                                                                  
+/me I hear some shots nearby.                                                                                           
+**For example**                                                                                      
+![](https://i.gyazo.com/44944b76e5b5bc2b083980aadb720297.png)
 
 **OUT OF CHARACTER CHANNELS**                                                                                                                                           
 **Out Of Character Chat** _(OOC)_
