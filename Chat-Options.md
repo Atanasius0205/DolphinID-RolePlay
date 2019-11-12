@@ -2,15 +2,16 @@ On the server you will find a wide variety of chat options, in order to create a
 
 **Roleplay Chat** _(RP)_
 **CMD:** /rp                                                                                      
-In this chat you can say anything that your character wanna say, this chat is limited to 15 blocks of distance that means that only people 15 blocks away from you can read you.
+In this chat you can say anything that your character wanna say, this chat is limited to 15 blocks of distance that means that only people 15 blocks away from you can read you.                                                                 
 **For example:**                                                                             
 ![](https://i.gyazo.com/d5c5a287701086723eeb95498b267e72.png)
 
 **Out Of Character Chat** _(OOC)_
 **CMD:** /ooc                                                                                      
-In this chat you can say anything unrelated to the server's roleplay, this chat is limited to 15 blocks of distance that means that only people 15 blocks away from you can read you.
-**For example:***                                                                           
+In this chat you can say anything unrelated to the server's roleplay, this chat is limited to 15 blocks of distance that means that only people 15 blocks away from you can read you.                                                            
+**For example:***                                                                                                         
  ![](https://i.gyazo.com/1b6126a98d417f8c43a1ea83a70fa60a.png)
+
 
 **Questions Chat** _(Question)_
 **CMD:** ? text                
@@ -18,17 +19,26 @@ In this chat you can say anything unrelated to the server's roleplay, this chat 
 This chat is exclusive to ask questions related to the server.
 This chat is not to chat with your friends or ask where they are or what they are doing. You could be silenced and get a penalty if you do.
 It is totally forbidden to recruit members for your gang here.
-It is totally forbidden to sell things in this chat.
+It is totally forbidden to sell things in this chat.                                                                     
 **For example**                                                                                              
 ![](https://i.gyazo.com/692736c2a07a9fb23e0c76c91ee2811a.png)
+
+Shout (Shout)
+CMD: /s text                                                                         
+![](https://i.gyazo.com/9b52a60b54bf9d8a6ac120d92ac522a6.png)                                                       
+With this option you can shout to all users 30 blocks away from you.
+You can only shout roleplay things related to your character with this command you can shout at a friend asking where he is. Or you can ask for help, you can even sell things.                                                                    
+**For example**                                                                                                          
+![](https://i.gyazo.com/da44a7f1a7c09b936f3162ebb2b3fe51.png)
+
 
 **Global Channel** _(Global)_
 CMD: ! text
 ![](https://i.gyazo.com/95bc981b7b547d753e34bb4ac7098616.png)                                     
 This is the global channel here you can write anything you want to say OOC globally this channel is to ask for OOC help or ask a taxi driver or user to reach your location to take you to your destination, You can also recruit members for your gang through this chat.
 This chat is not for talk with your friends or ask what they are doing. You could be silenced and get a penalty if you do.
-It is totally forbidden to sell things in this chat.
-**For example**
+It is totally forbidden to sell things in this chat.                                                                    
+**For example**                                                                             
 ![](https://i.gyazo.com/3d3cee87b295931e37c19c78e2018812.png)
 ![](https://i.gyazo.com/c1195f8648a23b5746d541204584c74d.png)
 ![](https://i.gyazo.com/61ef79a3c235eb0735675f165a81a88e.png)
