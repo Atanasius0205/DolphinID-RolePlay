@@ -25,6 +25,7 @@ The whisper option will allow you to whisper things to your friends or people cl
 **For example**                                                                                      
 ![](https://i.gyazo.com/84844bc296985a72372ed4a0f3273d67.png)                  
  
+ME 
 
 **OUT OF CHARACTER CHANNELS**                                                                                                                                           
 **Out Of Character Chat** _(OOC)_
