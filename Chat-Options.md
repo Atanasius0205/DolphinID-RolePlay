@@ -14,10 +14,10 @@ In this chat you can say anything that your character wanna say, this chat is li
 ![](https://i.gyazo.com/9b52a60b54bf9d8a6ac120d92ac522a6.png)                                                       
 With this option you can shout to all users 30 blocks away from you.
 You can only shout roleplay things related to your character with this command you can shout at a friend asking where he is. Or you can ask for help, you can even sell things.                                                                    
-**For example**                                                                                                          
 ![](https://i.gyazo.com/da44a7f1a7c09b936f3162ebb2b3fe51.png)
                                                                                                                     
                                                                                                                     
+**For example**                                                                                                          
 **Whisper** (Whisper)
 **CMD:** /w text                                                                                              
 ![](https://i.gyazo.com/32bfdebca565a8f545f5f27de2ed0832.png)
@@ -35,12 +35,14 @@ another example would be
 **For example**                                                                                      
 ![](https://i.gyazo.com/44944b76e5b5bc2b083980aadb720297.png)
 
-**OUT OF CHARACTER CHANNELS**                                                                                                                                           
-**Out Of Character Chat** _(OOC)_
+**Gang Radio** _(Gang)_
+**CMD:** /gc                                                                                                  
+In this chat you can keep in touch with your gangmates to plan meetings or strategies.
+
+**OUT OF CHARACTER CHANNELS**                                                                                                                                           **Out Of Character Chat** _(OOC)_
 **CMD:** /ooc                                                                                      
 In this chat you can say anything unrelated to the server's roleplay, this chat is limited to 15 blocks of distance that means that only people 15 blocks away from you can read you.                                                            
-**For example:***                                                                                                         
- ![](https://i.gyazo.com/1b6126a98d417f8c43a1ea83a70fa60a.png)
+**How looks in game:***                                                                                         ![](https://i.gyazo.com/1b6126a98d417f8c43a1ea83a70fa60a.png)
                                                                                                                     
 **Questions Chat** _(Question)_
 **CMD:** ? text                
