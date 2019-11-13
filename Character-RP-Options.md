@@ -24,6 +24,9 @@ This will be the age your character will be and based on your age it should be y
 You must define the genre with which you want to identify your character.                                                 
 ![](https://i.gyazo.com/0566b8f53b61ecb886a315ab7db84f27.png)
 
+**Character Description** **CMD:** /card desc (Put your description here)                                                 
+In the description you can make a brief summary to your liking about your character, insults of any kind will be sanctioned.                                                                                                              
+![](https://i.gyazo.com/127f25ea64613ce9f7f0cc0281cc72e5.png)
 
 **Roleplay Race** **CMD:** _/card self -and then in the menu press the races option and choose-_                 
 In this option you can choose which continent you come from and what blood you have. For example you cannot be from the European continent and be in an Asian mafia that would not be a role.                                                  
