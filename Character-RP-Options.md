@@ -3,7 +3,7 @@ Some of these options you can see other users info  with **cmd:** /card other ni
 These options are as follows. and are available with the **cmd:** /card
 
 
-**Roleplay Name** **CMD:** /card name (name_lastname)                                                                     
+**Roleplay Name** **CMD:** _/card name (name_lastname)_                                                                     
 This is the name you will use to role in the server must be a real name and include a surname is a requirement separating the name of the surname by a _ like so Wesley_Swantiger                                                                     
 Names of celebrities or fictional characters such as anime, movie series or video games are prohibited. The staff may change your roleplay name to a random one if you ignore it.                                                                       
 **Some examples of correct names would be:**                                                                               
@@ -16,10 +16,10 @@ Names of celebrities or fictional characters such as anime, movie series or vide
 **In game looks like this:**                                                                                              
 ![](https://i.gyazo.com/272392eeecff819e5f4bd85fc6ef0970.png)
 
-**Roleplay Age** CMD: /card age (age)                                                                                     
+**Roleplay Age** CMD: _/card age (age)_                                                                                     
 This will be the age your character will be and based on your age it should be your role, for example if you put 70 years old you should role-play and behave like an old man.                                                                     
 ![](https://i.gyazo.com/d4491022f2d8fbab51f673a9cdd3ce84.png)
 
-**Roleplay Gender** **CMD:** /card self -and then in the menu press the gender option a choose-                           
+**Roleplay Gender** **CMD:** _/card self -and then in the menu press the gender option a choose- _                          
 You must define the genre with which you want to identify your character.                                                 
 ![](https://i.gyazo.com/0566b8f53b61ecb886a315ab7db84f27.png)
