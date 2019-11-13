@@ -10,7 +10,7 @@ It is totally forbidden to do things that a normal person would never do.
 For example, jumping off a plane without a parachute, shooting everyone in the streets for no reason, or having a gun pointed at you and you start running or hitting the criminal. Knowing that the criminal could kill you with the gun.
 
 **Roleplay Definitions   **                                                                                             
-**DM:** DeathMatching - Killing someone without a valid Roleplay reason. This rule counts for almost all servers, No one wants to be DMed. It gets annoying.
+**DM:** DeathMatching - Killing someone without a valid Roleplay reason. This rule counts for almost all servers, No one wants to be killed for no reason. It gets annoying.
 
 **CK:** Character Kill - Suicide, any form of killing yourself that kills them permanently.
 
