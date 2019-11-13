@@ -1,7 +1,8 @@
 On the server you will find a wide variety of chat options, in order to create a better roleplay.
 
 
-**IN-CHARACTER CHANNELS**                                                                                                
+**IN-CHARACTER CHANNELS**                                                                           
+                     
 **Roleplay Chat** _(RP)_
 **CMD:** /rp                                                                                      
 In this chat you can say anything that your character wanna say, this chat is limited to 15 blocks of distance that means that only people 15 blocks away from you can read you.                                                                 
@@ -39,7 +40,8 @@ another example would be
 **CMD:** /gc                                                                                                  
 In this chat you can keep in touch with your gangmates to plan meetings or strategies.
 
-**OUT OF CHARACTER CHANNELS**                                                                                                                                           **Out Of Character Chat** _(OOC)_
+**OUT OF CHARACTER CHANNELS**
+                                                                                                                                           **Out Of Character Chat** _(OOC)_
 **CMD:** /ooc                                                                                      
 In this chat you can say anything unrelated to the server's roleplay, this chat is limited to 15 blocks of distance that means that only people 15 blocks away from you can read you.                                                            
 **How looks in game:**                                                                                                 
