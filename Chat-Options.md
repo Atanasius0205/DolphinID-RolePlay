@@ -40,7 +40,7 @@ another example would be
 **CMD:** /gc                                                                                                  
 In this chat you can keep in touch with your gangmates to plan meetings or strategies.
 
-**OUT OF CHARACTER CHANNELS**
+**OUT OF CHARACTER CHANNELS**                                                                                            
                                                                                                                                            **Out Of Character Chat** _(OOC)_
 **CMD:** /ooc                                                                                      
 In this chat you can say anything unrelated to the server's roleplay, this chat is limited to 15 blocks of distance that means that only people 15 blocks away from you can read you.                                                            
