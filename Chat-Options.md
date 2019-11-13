@@ -31,7 +31,7 @@ The whisper option will allow you to whisper things to your friends or people cl
 The cmd me, serves to describe actions about your character or the environment. Things that cannot be seen due to minecraft limitations. Some examples would be                                                                       
 /me It's very hot                                                                                                         
 another example would be                                                                                                  
-/me I hear some shots nearby.                                                                                           
+/me Hear some shots nearby.                                                                                           
 **How looks in game:**                                                                                                 
 ![](https://i.gyazo.com/44944b76e5b5bc2b083980aadb720297.png)
 
