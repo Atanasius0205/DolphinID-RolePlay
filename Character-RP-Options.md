@@ -20,6 +20,11 @@ Names of celebrities or fictional characters such as anime, movie series or vide
 This will be the age your character will be and based on your age it should be your role, for example if you put 70 years old you should role-play and behave like an old man.                                                                     
 ![](https://i.gyazo.com/d4491022f2d8fbab51f673a9cdd3ce84.png)
 
-**Roleplay Gender** **CMD:** /card self -and then in the menu press the gender option a choose- _                          
+**Roleplay Gender** **CMD:** /card self -and then in the menu press the gender option and choose- _                          
 You must define the genre with which you want to identify your character.                                                 
 ![](https://i.gyazo.com/0566b8f53b61ecb886a315ab7db84f27.png)
+
+
+**Roleplay Race** **CMD:** _/card self -and then in the menu press the races option and choose-_                 
+In this option you can choose which continent you come from and what blood you have. For example you cannot be from the European continent and be in an Asian mafia that would not be a role.                                                  
+![](https://i.gyazo.com/17e83302a7b07804c39025901b472d2d.png)         
