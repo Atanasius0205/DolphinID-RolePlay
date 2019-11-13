@@ -8,6 +8,7 @@ Always behave and act like a normal real life person.
 In the term roleplay there are certain things that are prohibited and could lead to a penalty or even a permanent ban.
 It is totally forbidden to do things that a normal person would never do.
 For example, jumping off a plane without a parachute, shooting everyone in the streets for no reason, or having a gun pointed at you and you start running or hitting the criminal. Knowing that the criminal could kill you with the gun.
+Remember that when you talking with another user you must introduce yourself and ask his name, it is assumed that if you do not know him you should not know it - although you can see it in the chat-
 
 **Roleplay Definitions   **                                                                                             
 **DM:** DeathMatching - Killing someone without a valid Roleplay reason. This rule counts for almost all servers, No one wants to be killed for no reason. It gets annoying.
@@ -23,5 +24,3 @@ For example, jumping off a plane without a parachute, shooting everyone in the s
 **BH**: Bunnyhopping - Repeatedly jumping around to get somewhere quicker.
 
 **Chicken Running:** Running around in a Zig-Zag so they can't get a shot on you.
-
-**DM:** Deathmatching - Killing someone without a valid RP reason.
