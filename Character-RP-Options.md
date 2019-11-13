@@ -9,6 +9,7 @@ Names of celebrities or fictional characters such as anime, movie series or vide
 **Some examples of correct names would be:**                                                                               
 - Wesley_Wang            - Jaden_Adams             - Jacob_Cooper                - Brylee_White                             
 - Abby_Johnson           - Carlos_Martinez         - Mike_Peterson               - Jackson_Cole                             
+
 **Some examples of incorrect and not allowed names would be:**                                                              
 - Michael_Jackson         - Selena_Gomez               - Naruto_Uzumaki               - Marios_Bross                       
 - WESLEY_SWANTIGER (CAPS) - Wesley (With out lastname) - Jackie_Chang                 - Rick_Grimes                       
