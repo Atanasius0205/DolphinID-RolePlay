@@ -1,6 +1,7 @@
 In minecity you must define some roleplay options in order to improve your gameplay in the city.
 Some of these options you can see other users info  with **cmd:** /card other nickname
-These options are as follows. and are available with the **cmd:** /card
+These options are as follows. and are available with the **cmd:** /card                                                  
+![](https://i.gyazo.com/e2b78b1b27dff8382bd4463ba0910688.png)
 
 
 **Roleplay Name** **CMD:** _/card name (name_lastname)_                                                                     
