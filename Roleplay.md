@@ -21,7 +21,7 @@ Remember that when you talking with another user you must introduce yourself and
 
 **PG:** Forcing roleplay on another individual, causing potential unfair and unrealistic actions with, for example John is surrounded by SWAT with M4's, he pulls a knife out and kills them all instantly without even giving them time to react. Another example is "/me hits someone knocking them out" there is no reaction time given.
 
-**NER:** No environment role -This is when the user does not properly role anything that happens around him, for example is if a thief wants to steal your things and you to avoid it run or hit him even knowing that he can kill you, Another example would be that: the police ask you to stop and ask you to identify yourself and take your things out to check them and you simply ignore them or run.
+**NER:** No environment role -This is when the user does not properly role anything that happens around him, for example  if a criminal wants to steal your things and you to avoid it run or hit him even knowing that he can kill you, Another example would be that: the police ask you to stop and ask you to identify yourself and take your things out to check them and you simply ignore them or run.
 
 **BH**: Bunnyhopping - Repeatedly jumping around to get somewhere quicker.
 
