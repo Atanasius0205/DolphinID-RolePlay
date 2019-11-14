@@ -15,7 +15,7 @@ Remember that when you talking with another user you must introduce yourself and
 
 **CK:** Character Kill - Suicide, any form of killing yourself that kills them permanently.
 
-**PK:** Player Kill - When another player kills you, for example shootout or fight. You goto hospital, get treated and stay alive though always take care of your life as something essential.
+**PK:** Player Kill - When another player kills you, for example shootout or fight. You goto hospital, get treated and stay alive though always take care of your life as something essential, The wrong thing would be to go looking for the user who killed you and kill him. This is prohibited.
 
 **MG:** Metagaming - Using OOC info for an IC benefit, for example I am spectating John, and another gang is around the corner. I TP to him, ICly tell him that they're round the corner and go away.
 
