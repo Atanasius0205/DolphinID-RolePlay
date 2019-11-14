@@ -26,3 +26,5 @@ Remember that when you talking with another user you must introduce yourself and
 **BH**: Bunnyhopping - Repeatedly jumping around to get somewhere quicker.
 
 **Chicken Running:** Running around in a Zig-Zag so they can't get a shot on you.
+
+**So before doing something in the city, ask yourself, would I act that way if it were a real-life case?**
