@@ -1,8 +1,8 @@
 **Vehicles**
-![](https://i.imgur.com/bebsfBQ.png)
 Of course, as is to be expected from a city, we have vehicles. With which you can transport more easily and quickly.
 Additional to give life to the city.
 We have some cars, motorcycles, planes and helicopters and we plan to add more and more vehicles to give users more variety.
+![](https://i.imgur.com/bebsfBQ.png)
 
 Well now the next thing you should do is raise enough money to buy your first vehicle in _Acacia Car DealerShip_ (CMD:/Gps start cardealership)
 To see the location.
