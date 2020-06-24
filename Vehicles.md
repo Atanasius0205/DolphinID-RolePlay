@@ -3,10 +3,10 @@ Additional to give life to the city.
 We have some cars, motorcycles, planes and helicopters and we plan to add more and more vehicles to give users more variety.
 ![](https://i.imgur.com/bebsfBQ.png)
 
-Well now the next thing you should do is raise enough money to buy your first vehicle in _Acacia Car DealerShip_ (CMD:/Gps start cardealership)
+Well now the next thing you should do is get enough money to buy your first vehicle in _Acacia Car DealerShip_ (CMD:/Gps start cardealership)
 To see the location.
 
-Now that you bought your vehicle you can spam it by pressing **Right-Click** on the street with the vehicle in hand.
+Now that you bought your vehicle you can spam it by pressing **Right-Click** on the street with the vehicle in your hand.
 _The vehicles come without fuel so you should take a little before buying your vehicle._
 
 Now that you have your spawned vehicle you can open the vehicle menu by pressing **Sneak + Right-Click**
