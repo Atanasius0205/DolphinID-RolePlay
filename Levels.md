@@ -1,4 +1,4 @@
-In our server we develop a level system with benefits according to the more level you have. To level up you must play X number of hours
+In minecity we develop a level system with benefits according to the more level you have. To level up you must play X number of hours
 
 **Level 1**
 
