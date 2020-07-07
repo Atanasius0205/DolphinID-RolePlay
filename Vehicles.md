@@ -6,11 +6,14 @@ We have some cars, motorcycles, planes and helicopters and we plan to add more a
 Well now the next thing you should do is get enough money to buy your first vehicle in _Acacia Car DealerShip_ (CMD:/Gps start cardealership)
 To see the location.
 
-Now that you bought your vehicle you can spam it by pressing **Right-Click** on the street with the vehicle in your hand.
-_The vehicles come without fuel so you should take a little before buying your vehicle._
+Now that you bought your vehicle you can spam it with the **CMD** _/garage_
 
-Now that you have your spawned vehicle you can open the vehicle menu by pressing **Sneak + Right-Click**
-or drive your vehicle by pressing just **Right-Click**.
-_If your vehicle does not move it is because you have no fuel._
+
 
 **Vehicles Commands**
+
+**CMD** _/garage_
+With this command you can see your available vehicles
+ you can also spawn your vehicle with this option.
+
+**CMD** _/car call_
