@@ -57,7 +57,8 @@ If you want to know the requisites of your next rank use the same **command** bu
 
 **Unlock:**
 1. Tag Lvl.7
-2. You can marry people, as a priest.
+2. You can marry people, as a priest **CMD** _/marry username username_
+_(Marrying people without their permission is illegal. And you can be sanctioned)_
 
 * **Level 8**///
 **Salary:** _$85 per hour_
