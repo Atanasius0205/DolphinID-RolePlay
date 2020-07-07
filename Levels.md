@@ -1,6 +1,6 @@
 In minecity we develop a level system with benefits according to the more level you have. To level up you must play X number of hours
 If u wanna check your level you can use the cmd _/level check_
-If you want to know the requisites of your next rank use the same command but add the level at the end **example**:_/level check Lvl2_ or _/level check Lvl3_
+If you want to know the requisites of your next rank use the same command but add the level at the end **example**:_/level Lvl2_ or _/level Lvl3_
 
 * **Level 1**
 
