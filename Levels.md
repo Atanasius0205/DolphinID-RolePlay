@@ -8,6 +8,7 @@ If you want to know the requisites of your next rank use the same **command** bu
 * **Level 2**
 **Salary:** _$25 per hour_
 **Hours required:** 3 Hours
+
 **Unlock:**
 1. Tag Lvl.2
 2. Now you can use guns
@@ -17,6 +18,7 @@ If you want to know the requisites of your next rank use the same **command** bu
 * **Level 3**
 **Salary:** _$35 per hour_
 **Hours required:** 12 Hours
+
 **Unlock:**
 1. Tag Lvl.3
 2. Friends Status **CMD** _/friends status set (Status)_
@@ -27,6 +29,7 @@ If you want to know the requisites of your next rank use the same **command** bu
 * **Level 4**
 **Salary:** _$45 per hour_
 **Hours required:** 30 Hours
+
 **Unlock:**
 1. Tag Lvl.4
 2. Access to the statistics of other users **CMD** _/stats <username>_
@@ -34,6 +37,7 @@ If you want to know the requisites of your next rank use the same **command** bu
 * **Level 5**
 **Salary:** _$55 per hour_
 **Hours required:** 60 Hours
+
 **Unlock:**
 1. Tag Lvl.5
 3. Access to the enderchest 18 slots
@@ -42,6 +46,7 @@ If you want to know the requisites of your next rank use the same **command** bu
 * **Level 6**
 **Salary:** _$65 per hour_
 **Hours required:** 100 Hours
+
 **Unlock:**
 1. Tag Lvl.6
 2. You can use _/announcement_ command
@@ -49,6 +54,7 @@ If you want to know the requisites of your next rank use the same **command** bu
 * **Level 7**
 **Salary:** _$75 per hour_
 **Hours required:** 200 Hours
+
 **Unlock:**
 1. Tag Lvl.7
 2. You can marry people, as a priest.
@@ -56,6 +62,7 @@ If you want to know the requisites of your next rank use the same **command** bu
 * **Level 8**
 **Salary:** _$85 per hour_
 **Hours required:** 300 Hours
+
 **Unlock:**
 1. Tag Lvl.8
 2. You can use your gps to track users. 
