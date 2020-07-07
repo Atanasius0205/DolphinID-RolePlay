@@ -12,7 +12,7 @@ If you want to know the requisites of your next rank use the same **command** bu
 **Unlock:**
 1. Tag Lvl.2
 2. Now you can use guns
-3. You can join a gang **CMD** _/g join|accept <gang>_
+3. You can join a gang **CMD** _/g join|accept gangname_
 4. You can get married 
 
 * **Level 3**///
