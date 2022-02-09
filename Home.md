@@ -2,7 +2,10 @@
 On this server you will find a wide variety of unique and exclusive activities with which you will have fun for hours. The server focused on thematic roleplay allows our users to choose in which activity to spend their time, be able to work honestly, or recruit you to be a police officer, or lead a criminal life and dominate the streets.
 ![](https://i.imgur.com/nynKT9a.jpg)
 
-You can buy this setup on any of this links: MinecityRP PolyMart Minecity RP McMarket
+You can buy this setup on any of this links:
+[https://polymart.org/resource/minecity-roleplay-setup.1133](https://polymart.org/resource/minecity-roleplay-setup.1133)
+[https://www.mc-market.org/resources/22823/](https://www.mc-market.org/resources/22823/)
+
 
 Have you always wanted to play a roleplay similar to gta 5 in minecraft? But you don’t have the patience or the knowledge to do it? Don’t worry minecity is your solution.
 
