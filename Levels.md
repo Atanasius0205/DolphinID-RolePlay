@@ -1,6 +1,6 @@
 In [Minecity](http://mcrp.fun/) we develop a level system with benefits according to the more level you have. To level up you must play X number of hours
-If u wanna check your level you can use the **cmd** _/level check_
-If you want to know the requisites of your next rank use the same **command** but add the level at the end **example**:_/level2 or _/level5
+If u wanna check your level you can use the **cmd** /level check_
+If you want to know the requisites of your next rank use the same **command** but add the level at the end **example**: /level2 or /level5
 
 * **Level 1**///
 **Salary:** _$15 per hour_
