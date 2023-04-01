@@ -1,5 +1,5 @@
-**Welcome** to the [MineCityRP](http://www.mcrp.fun/) wiki!
-On this server you will find a wide variety of unique and exclusive activities with which you will have fun for hours. The server focused on thematic roleplay allows our users to choose in which activity to spend their time, be able to work honestly, or recruit you to be a police officer, or lead a criminal life and dominate the streets.
+**Selamat datang** di wiki [DolphinID](http://discord.dolphin.my.id/)!
+Di server ini Anda akan menemukan berbagai macam aktivitas unik dan eksklusif yang akan membuat Anda bersenang-senang selama berjam-jam. Server yang berfokus pada roleplay tematik memungkinkan pengguna kami untuk memilih aktivitas mana yang akan menghabiskan waktu mereka, dapat bekerja dengan jujur, atau merekrut Anda untuk menjadi petugas polisi, atau menjalani kehidupan kriminal dan mendominasi jalanan.
 ![](https://i.imgur.com/nynKT9a.jpg)
 
 You can buy this setup on any of this links:
