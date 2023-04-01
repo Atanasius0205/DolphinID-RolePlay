@@ -1,4 +1,4 @@
-Di minecity Anda harus menentukan beberapa opsi permainan peran untuk meningkatkan permainan Anda di kota.
+Di DolphinID Anda harus menentukan beberapa opsi permainan peran untuk meningkatkan permainan Anda di kota.
 Beberapa opsi ini Anda dapat melihat info pengguna lain dengan **cmd:** /card nama panggilan lain
 Opsi-opsi ini adalah sebagai berikut. dan tersedia dengan **cmd:** /card                                              
 ![](https://i.gyazo.com/e2b78b1b27dff8382bd4463ba0910688.png)
